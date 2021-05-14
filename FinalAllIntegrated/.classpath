@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/build/generated-sources/ap-source-output"/>
+	<classpathentry kind="src" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/src"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/javax.persistence-2.1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/jcommon-1.0.9.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/jfreechart-1.0.5.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/lib/org.eclipse.persistence.jpa.modelgen_2.5.2.v20140319-9ad6abd.jar"/>
+	<classpathentry kind="lib" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/dist/TimeTableManagementSystem.jar"/>
+	<classpathentry kind="output" path="FinalAllIntegrated/TimeTableManagementSystemIntegrateCopy/build/classes"/>
+</classpath>
